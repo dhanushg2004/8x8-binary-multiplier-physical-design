@@ -1,0 +1,12 @@
+{
+  "DESIGN_NAME": "multiplier_8x8",
+  "VERILOG_FILES": ["dir::rtl/multiplier_8x8.v"],
+  "CLOCK_PORT": null,
+  "CLOCK_PERIOD": 10.0,
+  "FP_CORE_UTIL": 50,
+  "PL_TARGET_DENSITY_PCT": 50,
+  "RUN_CTS": false,
+  "RUN_SPEF_EXTRACTION": true,
+  "RUN_MAGIC": true,
+  "RUN_KLAYOUT_XOR": false
+}

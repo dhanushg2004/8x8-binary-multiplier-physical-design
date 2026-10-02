@@ -1,0 +1,11 @@
+# OpenLane generated runs
+runs/
+
+# Local/editor files
+*.swp
+*.swo
+.DS_Store
+.vscode/
+
+# Large generated physical-design files can be added selectively
+results/tmp/
